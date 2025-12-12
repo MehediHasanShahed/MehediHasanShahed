@@ -14,10 +14,9 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 
 ---
 
-## 🚀 What I’m Currently Working On
-- Developing **production-ready full-stack applications**
-- Exploring **AI & ML integrations** in web platforms
-- Improving **code quality, performance, and scalability**
+## 🚀 What am I currently working on?
+
+I’m building **full-stack web applications** using modern technologies, exploring **machine learning & AI-driven projects**, and continuously improving my skills through hands-on projects and research.
 
 ---
 
@@ -33,20 +32,6 @@ NumPy · Pandas · TensorFlow · Matplotlib
 
 **Tools & Platforms**  
 Linux · Git · Supabase · Prisma · Arduino · ESP32  
-
----
-
-## 📌 Featured Projects
-- **Finance Tracker** — Personal finance management platform  
-  *Next.js, PostgreSQL, Prisma, Clerk, Tailwind CSS*
-
-- **Tasker** — Project & sprint management application  
-  *Next.js (App Router), Node.js, Tailwind CSS*
-
-- **URL Shortener** — Auth-based PWA URL shortening service  
-  *React, Supabase, Tailwind CSS*
-
-👉 *More projects available on my GitHub repositories.*
 
 
 ---
