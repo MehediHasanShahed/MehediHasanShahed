@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Mehedi Hasan Shahed 👋
 
-<!--
-**MehediHasanShahed/MehediHasanShahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering graduate from **BRAC University** (Highest Distinction) with a strong focus on **full-stack web development, problem solving, and applied AI**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Building modern **full-stack web applications**
+- Exploring **AI & machine learning–driven projects**
+- Strengthening core **data structures & algorithms**
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript, SQL, HTML, CSS  
+**Web:** React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind CSS  
+**AI & Data:** NumPy, Pandas, TensorFlow, Matplotlib  
+**Tools:** Linux, Git, Supabase, Prisma
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehediHasanShahed&show_icons=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasanShahed&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MehediHasanShahed" height="150" />
+</p>
+
+---
+
+## 📫 Reach Me
+- **Email:** mehedihasanshahed3@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/mehedi-hasan-shahed-153404287  
+- **GitHub:** https://github.com/MehediHasanShahed
