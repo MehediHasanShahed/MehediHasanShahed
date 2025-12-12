@@ -19,18 +19,6 @@ Computer Science & Engineering graduate from **BRAC University** (Highest Distin
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehediHasanShahed&show_icons=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasanShahed&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MehediHasanShahed" height="150" />
-</p>
-
----
-
 ## 📫 Reach Me
 - **Email:** mehedihasanshahed3@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/mehedi-hasan-shahed-153404287  
