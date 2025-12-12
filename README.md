@@ -1,4 +1,4 @@
-# Mehedi Hasan Shahed 👋
+# 👋 Hi, I'm Mehedi Hasan Shahed
 **Full-Stack Developer | Computer Science & Engineering Graduate**
 
 I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) with a strong passion for **building scalable web applications**, **solving real-world problems**, and **exploring AI-driven systems**.
