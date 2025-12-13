@@ -30,7 +30,7 @@ src="https://camo.githubusercontent.com/484e043ae2ff6f6d3a281175aad00edf1eb2c92b
 
 ---
 
-## 🚀 What am I currently working on?
+<h2>🚀 What am I currently working on?</h2>
 
 - Building **full-stack web applications** using modern technologies
 - Exploring **machine learning & AI-driven projects**
