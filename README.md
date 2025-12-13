@@ -22,10 +22,8 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 - 🤖 Interested in **AI, machine learning, and applied research**
 - 📚 Former **Student Tutor (Algorithms)** at BRAC University
 
-  
 
-<hr width="60%">
-
+---
 
 ## 🚀 What am I currently working on?
 
