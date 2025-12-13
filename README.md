@@ -3,6 +3,10 @@
 
 I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) with a strong passion for **building scalable web applications**, **solving real-world problems**, and **exploring AI-driven systems**.
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&base=1500"/> 
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -43,9 +47,4 @@ Linux · Git · Supabase · Prisma · Arduino · ESP32
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&base=1500"/> 
-</p>
-
   
