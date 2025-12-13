@@ -11,6 +11,7 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 ---
 
 ## 👨‍💻 About Me
+<img src="https://camo.githubusercontent.com/484e043ae2ff6f6d3a281175aad00edf1eb2c92b7536690da1fc08a79f1cb768/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578634751344f546c7162326c7463544e6e656d396f4d546c76626d517a626d5270633368734d6d39315958557764474a30626a513161695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e77656270" width="260" align="right" />
 - 🎓 B.Sc. in Computer Science & Engineering, BRAC University  
 - 🧠 Strong foundation in **Data Structures, Algorithms & System Design**
 - 🌐 Experienced in **full-stack web development (MERN & Next.js)**
@@ -24,7 +25,7 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 - Building **full-stack web applications** using modern technologies
 - Exploring **machine learning & AI-driven projects**
 - Continuously improving my skills through hands-on projects and research.
-
+<br clear="right"/>
 ---
 
 ## 🛠 Tech Stack
