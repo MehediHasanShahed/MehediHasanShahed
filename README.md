@@ -42,13 +42,10 @@ Linux · Git · Supabase · Prisma · Arduino · ESP32
 
 ---
 
+⭐ *Feel free to explore my repositories and connect with me!*
 
-  <p align="left">
-    ⭐ *Feel free to explore my repositories and connect with me!*
-  </p>
-  
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&abbreviated=false&base=1500"/> 
-  </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&abbreviated=false&base=1500"/> 
+</p>
 
   
