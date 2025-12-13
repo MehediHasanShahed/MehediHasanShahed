@@ -41,8 +41,11 @@ Linux · Git · Supabase · Prisma · Arduino · ESP32
 - 💼 LinkedIn: https://www.linkedin.com/in/mehedi-hasan-shahed-153404287  
 
 ---
+<p align="left">
+  ⭐ *Feel free to explore my repositories and connect with me!*
+</p>
 
-⭐ *Feel free to explore my repositories and connect with me!*
-
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&abbreviated=true&base=1500"/> 
+</p>
   
