@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Mehedi Hasan Shahed
 
-<div>
-  <p align="left">
-    <strong>Full-Stack Developer | Computer Science & Engineering Graduate</strong>
-  </p>
-  <p align="right">  
-    <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&base=1500"/>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Full-Stack Developer | Computer Science & Engineering Graduate</strong>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&style=flat"/>
+    </td>
+  </tr>
+</table>
+
 </br/>
 I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) with a strong passion for **building scalable web applications**, **solving real-world problems**, and **exploring AI-driven systems**.
 
