@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mehedi Hasan Shahed
 
 <div>
-  <strong>Full-Stack Developer | Computer Science & Engineering Graduate</strong>
+  <p align="left">
+    <strong>Full-Stack Developer | Computer Science & Engineering Graduate</strong>
+  </p>
   <p align="right">  
     <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&base=1500"/>
   </p>
