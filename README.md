@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer | Computer Science & Engineering Graduate</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=MehediHasanShahed&color=blueviolet&style=plastic&base=1500"/>
 </p>
 
@@ -46,8 +46,8 @@ Linux · Git · Supabase · Prisma · Arduino · ESP32
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **mehedihasanshahed3@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mehedi-hasan-shahed-153404287  
+- <a href="mehedihasanshahed3@gmail.com">📧 Email</a>
+- <a href="https://www.linkedin.com/in/mehedi-hasan-shahed-153404287">💼 LinkedIn</a>
 
 ---
 
