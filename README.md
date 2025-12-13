@@ -21,8 +21,7 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 - 🌐 Experienced in **full-stack web development (MERN & Next.js)**
 - 🤖 Interested in **AI, machine learning, and applied research**
 - 📚 Former **Student Tutor (Algorithms)** at BRAC University
-
-<br clear="right"/>
+- 
 
 ---
 
@@ -31,6 +30,8 @@ I’m a CSE graduate from **BRAC University** (Highest Distinction, CGPA 3.86) w
 - Building **full-stack web applications** using modern technologies
 - Exploring **machine learning & AI-driven projects**
 - Continuously improving my skills through hands-on projects and research.
+
+<br clear="right"/>
 
 
 ---
