@@ -54,6 +54,7 @@ Linux · Git · Supabase · Prisma · Arduino · ESP32
 ---
 
 ## 📫 Contact Me
+- 🌐 <a href="https://mehedihasanshahed-portfolio.vercel.app">Portfolio</a>
 - 📧 Email: mehedihasanshahed3@gmail.com
 - 💼 <a href="https://www.linkedin.com/in/mehedi-hasan-shahed-153404287">LinkedIn</a>
 
